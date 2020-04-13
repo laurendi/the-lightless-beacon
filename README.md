@@ -17,6 +17,10 @@
 
 * https://github.com/laurendi/the-lightless-beacon/blob/master/le-phare-sans-lumiere.md
 
+## Création des feuilles de personnage COC par Gobo
+
+* https://github.com/laurendi/the-lightless-beacon/master/characters
+
 ## Tableau d'intervention
 
 | Chapitre              | Intervenant                   | État                         |
