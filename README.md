@@ -6,16 +6,16 @@
 
 ## Suppression des retours à la ligne et traduction automatisée avec DeepL
 
-* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/the-lightless-beacon-call-of-cthulhu.txt
-* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/le-phare-sans-lumiere.txt
+* https://raw.githubusercontent.com/laurendi/the-lightless-beacon/master/the-lightless-beacon-call-of-cthulhu.txt
+* https://raw.githubusercontent.com/laurendi/the-lightless-beacon/master/le-phare-sans-lumiere.txt
 
 ## Création d'un brouillon formaté en Markdown
 
-* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/le-phare-sans-lumiere.md
+* https://raw.githubusercontent.com/laurendi/the-lightless-beacon/master/le-phare-sans-lumiere.md
 
 ## Affichage en HTML
 
-* https://github.com/lraboteau/the-lightless-beacon/blob/master/le-phare-sans-lumiere.md
+* https://github.com/laurendi/the-lightless-beacon/blob/master/le-phare-sans-lumiere.md
 
 ## Tableau d'intervention
 
