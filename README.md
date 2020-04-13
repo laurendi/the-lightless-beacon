@@ -19,7 +19,7 @@
 
 ## Création des feuilles de personnage COC par Gobo
 
-* https://github.com/laurendi/the-lightless-beacon/master/characters
+* https://github.com/laurendi/the-lightless-beacon/tree/master/characters
 
 ## Tableau d'intervention
 
